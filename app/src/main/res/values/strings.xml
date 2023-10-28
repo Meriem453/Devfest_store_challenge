@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">medium_challenge</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Start explore our product</string>
+    <string name="tshirt">T-Shirt</string>
+    <string name="hoodies">Hoodies</string>
+    <string name="stickers">Stickers</string>
+    <string name="special_offers">Special offers</string>
+    <string name="buynow">Buy Now</string>
+    <string name="newestitems">Newest Items</string>
+    <string name="addtocart">Add to Cart</string>
+    <string name="newestcollections">Our Collections</string>
+    <string name="showdetails">Show Details</string>
+    <string name="fillyourcart">Fill your cart</string>
+    <string name="withfantastic">With fantastic products!</string>
+    <string name="buy">Buy</string>
+    <string name="checkpoints">Checkpoint</string>
+    <string name="total">Total:</string>
+    <string name="buyall">Buy All</string>
+    <string name="exploreyour">Explore your</string>
+    <string name="remarquableprofile">Remarquable Profile</string>
+    <string name="yourbalence">Your balence</string>
+    <string name="profileinfo">Profile Info</string>
+    <string name="password">Password Settings</string>
+    <string name="gethelp">Get Help</string>
+    <string name="logout">Logout</string>
+    <string name="get">Get</string>
+    <string name="para">"Amazing Store,Don'y miss the New offers "</string>
+    <string name="fromour">" from our"</string>
+    <string name="getnow">Get Now</string>
+</resources>

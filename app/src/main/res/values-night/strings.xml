@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="welcome">Start explore our product</string>
+    <string name="hoodies">Hoodies</string>
+    <string name="special_offers">Special offers</string>
+    <string name="newestitems">Newest Items</string>
+    <string name="addtocart">Add to Cart</string>
+    <string name="newestcollections">Newest Collections</string>
+    <string name="buy">Buy</string>
+</resources>

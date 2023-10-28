@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/dark_gray"
+    android:layout_margin="5dp"
+    >
+
+    <TextView
+        android:id="@+id/check_text"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/productsans"
+        android:gravity="start"
+        android:lines="2"
+        android:text="Devfest blue hoodie:"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:fontFamily="@font/productsans"
+        android:text="Qt:"
+        android:textColor="@color/gray"
+        android:textSize="13sp"
+        android:layout_weight="1"
+        android:gravity="end"
+        />
+
+    <TextView
+        android:id="@+id/check_quant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/productsans"
+        android:gravity="start"
+        android:text="1"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:fontFamily="@font/productsans"
+        android:text="Price:"
+        android:gravity="end"
+        android:textColor="@color/gray"
+        android:textSize="13sp"
+        android:layout_weight="1"
+        />
+
+    <TextView
+        android:id="@+id/check_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/productsans"
+        android:gravity="start"
+        android:text="150"
+        android:textColor="@color/white"
+
+        android:textSize="13sp" />
+</LinearLayout>
